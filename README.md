@@ -8,5 +8,9 @@
 ### ▶️ Execução
 >Basta executar o arquivo main.py.
 
+### 🌎 Regiões disponíveis
+
+> br, eune, euw, jp, kr, lan, las, na, oc, tr, ru
+
 ## `⚠️` Licença:
 - [MIT License](https://choosealicense.com/licenses/mit/)
