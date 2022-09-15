@@ -20,7 +20,6 @@ class Checker:
 
     def check_nickname_availability(self):
         r = self.send_request()
-        result = re.search("is available", r)
         if "is available</h4>" in r:
             return f"O nickname {self.nickname} está disponível!"
         else:
